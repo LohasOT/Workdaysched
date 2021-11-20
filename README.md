@@ -44,3 +44,18 @@ You are required to submit the following for review:
 
 - - -
 © 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+
+
+### Name
+
+Work Day Scheduler
+
+### Description
+
+This is an application to manage your schedule.
+
+### Link to Deployed Repo
+
+https://lohasot.github.io/codingquiz/index.html
+
+### Visuals
