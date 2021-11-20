@@ -17,7 +17,7 @@ $(document).ready(function () {
     }, 5000);
   });
 
-  function hourUpdater() {
+  function timeUpdater() {
     // get current number of hours
     let currentHour = moment().hours();
 
@@ -39,10 +39,10 @@ $(document).ready(function () {
     });
   }
 
-  hourUpdater();
+  timeUpdater();
 
   // set up interval to check if current time needs to be updated
-  let interval = setInterval(hourUpdater, 15000);
+  let interval = setInterval(timeUpdater, 15000);
 
   // load any saved data from localStorage
   $('#hour-9 .description').val(localStorage.getItem('hour-9'));
