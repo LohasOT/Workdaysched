@@ -56,6 +56,10 @@ This is an application to manage your schedule.
 
 ### Link to Deployed Repo
 
-https://lohasot.github.io/codingquiz/index.html
+https://lohasot.github.io/Workdaysched/
 
 ### Visuals
+
+<img src="https://user-images.githubusercontent.com/91640571/142719179-aafc3819-28fc-482d-b14b-aac3a82e96b3.jpg">
+
+<img src="https://user-images.githubusercontent.com/91640571/142719180-fdf3c4f5-6ecb-4d52-b789-ab8a2b12d7e2.jpg">
